@@ -51,7 +51,7 @@ export const mockProducts: Product[] = [
     name: '经典美式',
     description: '经典口味，醇香浓郁',
     price: 18,
-    image: 'https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=300&fit=crop',
     category: '经典',
   },
   {
