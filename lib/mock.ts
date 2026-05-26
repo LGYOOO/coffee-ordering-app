@@ -35,7 +35,7 @@ export const mockProducts: Product[] = [
     name: '生椰拿铁',
     description: '椰香浓郁，清甜不腻',
     price: 22,
-    image: 'https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1534778101976-74ec565f47ac?w=300&h=300&fit=crop',
     category: '推荐',
   },
   {
@@ -43,7 +43,7 @@ export const mockProducts: Product[] = [
     name: '燕麦澳白',
     description: '低脂健康，口感丝滑',
     price: 26,
-    image: 'https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=300&h=300&fit=crop',
     category: '推荐',
   },
   {
@@ -51,7 +51,7 @@ export const mockProducts: Product[] = [
     name: '经典美式',
     description: '经典口味，醇香浓郁',
     price: 18,
-    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=300&h=300&fit=crop',
     category: '经典',
   },
   {
@@ -59,7 +59,7 @@ export const mockProducts: Product[] = [
     name: '香草拿铁',
     description: '香草风味，甜蜜享受',
     price: 24,
-    image: 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=300&h=300&fit=crop',
     category: '风味',
   },
   {
@@ -67,7 +67,7 @@ export const mockProducts: Product[] = [
     name: '冰摩卡',
     description: '巧克力与咖啡的完美融合',
     price: 28,
-    image: 'https://images.unsplash.com/photo-1511920170033-f8396924c348?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&h=300&fit=crop',
     category: '风味',
   },
 ];
