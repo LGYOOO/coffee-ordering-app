@@ -35,7 +35,7 @@ export const mockProducts: Product[] = [
     name: '生椰拿铁',
     description: '椰香浓郁，清甜不腻',
     price: 22,
-    image: 'https://images.unsplash.com/photo-1534778101976-74ec565f47ac?w=300&h=300&fit=crop',
+    image: 'https://images.unsplash.com/photo-1572442388796-12a543988262?w=300&h=300&fit=crop',
     category: '推荐',
   },
   {
